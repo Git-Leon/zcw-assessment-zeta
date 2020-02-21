@@ -1,3 +1,6 @@
+# Other Resources
+* [TDD Slides](https://curriculeon.github.io/lectureslides/lectures/java/test-driven-development/fundamental-clauses/lecture.html)
+
 # ZipCodeWilmington Assessment 1
 
 
